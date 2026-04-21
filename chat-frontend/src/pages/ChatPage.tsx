@@ -54,7 +54,7 @@ export default function ChatPage({ user, onLogout }: any) {
 
   useEffect(() => {
     const client = new Client({
-      brokerURL: "ws://192.168.32.5:8080/ws",
+      brokerURL: "wss://chat-application-oyyq.onrender.com/ws",
       reconnectDelay: 5000,
     });
 

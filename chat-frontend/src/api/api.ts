@@ -1,4 +1,4 @@
-const API_BASE = "http://192.168.32.5:8080/api"
+const API_BASE = "https://chat-application-oyyq.onrender.com/api"
 
 // Send login request
 export async function login(username: string, password: string) {
