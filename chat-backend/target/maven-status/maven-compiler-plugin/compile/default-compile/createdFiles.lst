@@ -1,0 +1,16 @@
+com\chatapp\repository\MessageRepository.class
+com\chatapp\service\MessageService.class
+com\chatapp\controller\AuthController.class
+com\chatapp\controller\MessageController.class
+com\chatapp\model\ChatRoom.class
+com\chatapp\config\SecurityConfig.class
+com\chatapp\controller\ChatWebSocketController.class
+com\chatapp\service\ChatRoomService.class
+com\chatapp\ChatApplication.class
+com\chatapp\config\WebSocketConfig.class
+com\chatapp\model\Message.class
+com\chatapp\service\UserService.class
+com\chatapp\repository\UserRepository.class
+com\chatapp\controller\ChatRoomController.class
+com\chatapp\model\User.class
+com\chatapp\repository\ChatRoomRepository.class

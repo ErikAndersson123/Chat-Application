@@ -1,0 +1,16 @@
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\controller\AuthController.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\model\Message.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\controller\MessageController.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\repository\UserRepository.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\service\MessageService.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\config\SecurityConfig.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\model\ChatRoom.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\service\ChatRoomService.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\service\UserService.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\controller\ChatWebSocketController.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\repository\ChatRoomRepository.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\config\WebSocketConfig.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\repository\MessageRepository.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\model\User.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\ChatApplication.java
+C:\Users\Per\Desktop\Projects\Chat Application\chat-backend\src\main\java\com\chatapp\controller\ChatRoomController.java
