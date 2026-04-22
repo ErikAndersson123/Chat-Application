@@ -11,8 +11,8 @@ Full-stack real-time chat application built with Spring Boot and React.
 
 ## Tech Stack
 
-* Backend: Spring Boot, WebSocket (STOMP), JPA
-* Frontend: React, TypeScript, Vite
+* Backend: Java (Spring Boot), REST API, WebSocket (STOMP), JPA (SQL)
+* Frontend: React, TypeScript (Vite)
 
 ## Running locally
 
